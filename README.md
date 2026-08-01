@@ -1,0 +1,2 @@
+# call-bomb
+sikin amk
